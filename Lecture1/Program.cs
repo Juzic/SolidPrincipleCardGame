@@ -11,7 +11,6 @@ namespace Lecture1
             cardGameRunner.InitGame();
             cardGameRunner.DetermineWinner();
             cardGameRunner.SimulateGame();
-			//test
         }
     }
 }
