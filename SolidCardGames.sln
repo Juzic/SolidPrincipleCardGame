@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture1", "Lecture1\Lecture1.csproj", "{986BFF7D-71AB-4D58-89D5-2875448C9D04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGamesEngine", "CardGamesEngine\CardGamesEngine.csproj", "{D8ED1EAF-E99C-45EB-867B-815894204617}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{D77EB44C-2B91-4C95-A41B-98B873BD3C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{986BFF7D-71AB-4D58-89D5-2875448C9D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986BFF7D-71AB-4D58-89D5-2875448C9D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986BFF7D-71AB-4D58-89D5-2875448C9D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986BFF7D-71AB-4D58-89D5-2875448C9D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8ED1EAF-E99C-45EB-867B-815894204617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8ED1EAF-E99C-45EB-867B-815894204617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8ED1EAF-E99C-45EB-867B-815894204617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8ED1EAF-E99C-45EB-867B-815894204617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77EB44C-2B91-4C95-A41B-98B873BD3C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77EB44C-2B91-4C95-A41B-98B873BD3C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77EB44C-2B91-4C95-A41B-98B873BD3C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77EB44C-2B91-4C95-A41B-98B873BD3C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

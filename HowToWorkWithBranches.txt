@@ -1,0 +1,3 @@
+- clone repository: https://github.com/Juzic/SolidPrincipleCardGame.git
+- create branch from latest master in format '{teamname}/milestones'
+- create branch from '{teamname}/milestones' in format '{teamname}/dev'
